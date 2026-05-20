@@ -14,6 +14,8 @@ Key Findings
  São Paulo significantly outpaces the other cities in terms of order volume — it is 
  Brazil’s largest economic center with a population of 12 million people.
  Recommendation: focus logistics and warehouse operations primarily in this region.
+ The average customer rating is 4.09 out of 5. Most customers are satisfied with the service. 
+ Recommendation: analyze negative reviews (ratings of 1–2) to identify areas for improvement.
 
 Tools
 
